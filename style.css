@@ -1,0 +1,19 @@
+body {
+    background-color: #04c464;
+}
+
+#logo1{
+    text-align: center;
+    padding-left: 10px;
+    padding-top: -10px;
+    padding-bottom: -10px;
+    padding-right: -10px;
+}
+ h1{
+    color: whitesmoke;
+    height: 8%;
+    width: 20%;
+    background-color: orangered;
+    border-radius: 10px;
+    font-family: 'Roboto', sans-serif;
+}
